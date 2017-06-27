@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "554619331253",
+    "firebase_url": "https://pyrolam-1b71a.firebaseio.com",
+    "project_id": "pyrolam-1b71a",
+    "storage_bucket": "pyrolam-1b71a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554619331253:android:ea4ca123b3f8530b",
+        "android_client_info": {
+          "package_name": "com.example.venkatesh.pyrolam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554619331253-16vme4ot1ibb8qf4l8kg41oi7uidqavc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venkatesh.pyrolam",
+            "certificate_hash": "c8d3a5e3beacdeff2c628eb0b763e3fe487341e9"
+          }
+        },
+        {
+          "client_id": "554619331253-spbc9vp80oaia4f2ejjua8sgddtceu2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeIUPypWk8rHbLjflPrY1hssfkmzdjj8Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554619331253-spbc9vp80oaia4f2ejjua8sgddtceu2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
